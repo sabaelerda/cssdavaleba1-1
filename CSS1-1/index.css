@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 0 auto;
+    max-width: 614px;
+    width: 100%;
+    font-weight: 800;
+    font-size: 63px;
+    margin-top: 64px;
+    font-family: 'JetBrains Mono';
+    color: #8E26C0;
+}
+
+#container {
+    margin-left: 32px;   
+}
+
+#chance {
+    margin-top: 29px;
+    max-width: 565px;
+    width: 100%;
+    padding: 24px 40px;
+    background-color: #FFE8E8;
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+    color:#FF0000;
+}
+
+#advantage {
+    margin-top: 32px;
+    padding: 24px 40px;
+    max-width: 1023px;
+    width: 100%;
+    border-top: 2px solid #00C76E;
+    border-bottom: 2px solid #7F56D9;
+    border-left: 4px solid #C11574;
+    border-right: 4px solid #0055FF;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+}
+
+#end {
+    margin-top: 44px;
+    background-color: #FFE8E8;
+    padding: 24px 40px;
+    max-width: 1023px;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #414651;
+}
+
+span {
+    text-decoration: underline;
+    color: #FF4405;
+    line-height: 48px;
+}
+
+#opportunity {
+    padding: 24px 40px;
+    max-width: 989px;
+    width: 100%;
+    font-size: 32px;
+    font-family: 'Lato', sans-serif;
+    color: #0064CE;
+    text-align: right;
+    border: 2px solid #3538CD;
+    margin-top: 36px;
+}
+
+#image {
+    max-width: 556px;
+    width: 100%;
+    margin-top: 76px;
+}
